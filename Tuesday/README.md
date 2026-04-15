@@ -1,7 +1,7 @@
 # Hospital Readmission Prediction
 
 **Week 08 · Tuesday** | PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar 
-# Sudhanshu Biswas -  
+# Sudhanshu Biswas -    
 
 ![NumPy NN](https://img.shields.io/badge/NN-NumPy%20only-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![No PyTorch](https://img.shields.io/badge/PyTorch-not%20used-red)
 

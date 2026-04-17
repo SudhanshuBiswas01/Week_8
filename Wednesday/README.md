@@ -1,5 +1,6 @@
 # Week 08 · Wednesday — CNNs + Semantic Embeddings
 ### Two-Stage Content Moderation Pipeline
+# Sudhanshu Biswas - Wednesday 
 
 ---
 

@@ -1,6 +1,6 @@
 # Week 08 · Friday — Chest X-Ray Classification via Transfer Learning
 **PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar**
-### Sudhanshu Biswas week 8 friday assingment 
+### Sudhanshu Biswas - Week 8 Friday Assignment 
 ---
 
 ## 📌 Assignment Overview

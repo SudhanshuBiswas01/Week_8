@@ -1,5 +1,6 @@
 # Week 08 · Monday — Time Series Analysis
-**PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar - Sudhanshu Biswas**  
+**PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar**
+### Sudhanshu Biswas - Week 8 Monday
 
 ---
 

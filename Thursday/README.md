@@ -2,7 +2,7 @@
 
 **PG Diploma · AI-ML & Agentic AI Engineering · IIT Gandhinagar**  
 Dataset: `stock_prices.csv` — 5 NIFTY stocks (RELIANCE, INFOSYS, TCS, HDFC, WIPRO), Jan 2022 – Nov 2024 (3 750 rows)
-### SUDHANSHU BISWAS week 8 - thuresday 
+### Sudhanshu Biswas - Week 8 Thursday 
 ---
 
 ## How to Run

@@ -98,6 +98,8 @@ All parameters are defined at the top of the notebook — no magic numbers appea
 
 ---
 
+Last updated: April 24, 2026
+
 ## CNN Architecture
 
 ```

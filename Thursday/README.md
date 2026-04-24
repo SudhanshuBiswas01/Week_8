@@ -99,6 +99,8 @@ pip install torch numpy pandas scikit-learn matplotlib seaborn scipy jupyter nbf
 | LSTM (close + returns + volume) | **57.06** | **2.78 %** | Supplementary signal; deploy if MAPE < 2 % |
 | AR(k=5) weighted average | 35.55 | 1.57 % | Wins on stable regimes; LSTM needed for reversals |
 
+Last updated: April 24, 2026
+
 > **Deployment decision:** ⚠️ Supplementary signal — human oversight required until MAPE < 2 %.
 
 ### Churn Prediction (synthetic `chat_logs.csv`, ~25 % churn rate)

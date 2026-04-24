@@ -99,6 +99,8 @@ week-08/friday/
 
 ---
 
+Last updated: April 24, 2026
+
 ## 🏥 Clinical Design Decisions
 
 | Decision | Rationale |

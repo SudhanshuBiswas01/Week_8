@@ -98,6 +98,8 @@ python hospital_readmission_solution.py
 | Library | Purpose |
 |---------|---------|
 | `numpy` | Neural network (the only library used for the NN) |
+
+Last updated: April 24, 2026
 | `pandas` | Data loading and cleaning |
 | `scikit-learn` | Baseline model, metrics, train/test split |
 | `matplotlib` | Loss curve and cost-threshold plots |
